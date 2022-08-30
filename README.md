@@ -1,2 +1,2 @@
-# Come-ando-carreira
+# Começando-carreira
 Meu repositório do primeiro projeto
